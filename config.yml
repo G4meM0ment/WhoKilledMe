@@ -1,0 +1,14 @@
+#                             #
+#         WhoKilledMe         #
+#                             #
+# Use %a as name killers name #
+# and %d as victims name      #
+# you can use the normal mc   #
+# colorcodes to use colors    #
+#                             #
+
+ServerMessage: true
+disableVanillaMessages: true
+KilledByMessage: &3You were killed by &4%a&3!
+KilledMessage: &3You killed &4%d&3!
+BroadcastMessage: ´%a killed %d`

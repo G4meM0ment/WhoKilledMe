@@ -1,0 +1,7 @@
+name: WhoKilledMe
+main: me.G4meM0ment.WhoKilledMe.WhoKilledMe
+version: 0.5
+commands:
+   wkm:
+       description: Reloads the config.yml of WhoKilledMe
+       usage: /wkm reload
